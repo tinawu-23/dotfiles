@@ -1,5 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/afs/nd.edu/user40/ywu6/fa18/cse-30872-fa18-assignments/challenge11'
-let g:netrw_dirhist_2='/afs/nd.edu/user40/ywu6/fa18/progchal/cse-30872-fa18-contest-i/challengeIF'
-let g:netrw_dirhist_3='/afs/nd.edu/user40/ywu6/fa18'
